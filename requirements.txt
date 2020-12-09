@@ -1,5 +1,4 @@
 dbus-python==1.2.16
-idna==2.8
 ipykernel==5.3.4
 ipython==7.19.0
 ipython-genutils==0.2.0
@@ -16,11 +15,7 @@ numpy==1.19.4
 oauthlib==3.1.0
 opencv-python==4.4.0.46
 systemd-python==234
-terminado==0.9.1
 testpath==0.4.4
 tornado==6.1
 voila==0.2.4
-wadllib==1.3.3
-wcwidth==0.2.5
-webencodings==0.5.1
 widgetsnbextension==3.5.1
