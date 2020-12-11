@@ -90,7 +90,6 @@ terminado==0.9.1
 testpath==0.4.4
 tornado==6.1
 traitlets==5.0.5
-unattended-upgrades==0.1
 urllib3==1.25.8
 voila==0.2.4
 wadllib==1.3.3
