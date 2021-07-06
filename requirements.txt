@@ -4,5 +4,7 @@ ipython-genutils==0.2.0
 jupyter==1.0.0
 numpy==1.19.4
 voila==0.2.4
-matplotlib
+matplotlib==3.2.2
+matplotlib-inline==0.1.2
+matplotlib-venn==0.11.6
 opencv-python-headless
